@@ -72,3 +72,18 @@
       width: 30vw;
      margin-left: 40px;
   }
+
+  .boton button {
+      font-size: 3em;
+      margin-top: 20px;
+      border-radius: 10px;
+  }
+
+  .boton{
+      text-align: center;
+     
+  }
+
+  .boton button:hover{
+      background-color: salmon;
+  }
