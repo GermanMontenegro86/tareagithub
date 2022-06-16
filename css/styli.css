@@ -87,3 +87,11 @@
   .boton button:hover{
       background-color: salmon;
   }
+
+  .goku{
+    display: flex;
+  }
+
+  .goku img{
+    width: 20vw;
+  }
